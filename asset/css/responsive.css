@@ -1,0 +1,16 @@
+ @media(max-width:740px){ 
+    #nav>li{
+        display: none;
+    }
+    #header .search-btn{
+        display: none;
+    }
+
+}  
+@media(min-witdh:741px){
+    .mobile-menu{
+        display:block;
+    }
+}
+
+
